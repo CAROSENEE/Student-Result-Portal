@@ -20,6 +20,10 @@ Student Result Portal is a Laravel 9 web application for managing student profil
 - Duplicate course results are prevented for each student
 - Cascade deletion of a student's results when that student is deleted
 
+## Demo Video
+
+Watch the [12-second Student Result Portal walkthrough](public/videos/student-result-portal-demo.mp4). The same video is playable on the sign-in page.
+
 ## Tech Stack
 
 - PHP 8+
